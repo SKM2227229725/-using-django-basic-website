@@ -16,7 +16,7 @@ This is a minimal Django web application created to demonstrate the basic featur
 
 ## Features
 
-- Fully functional Django project structure
+- Fully functional Django project structure.and used the python libraries.
 - Easy to extend for additional pages or apps
 - Suitable for beginners learning Django
 - Can be deployed locally or on a web server
